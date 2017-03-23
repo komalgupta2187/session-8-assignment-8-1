@@ -1,0 +1,113 @@
+#maindiv {
+	background: #eeeeee;
+	width: 800px;
+	height: 420px;
+	margin: 0 auto; 
+	position: relative;
+}
+
+#register {
+	color: #848484;
+	font-size: 16px;
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+#register span {
+	color: #234464;
+}
+.inp-text{
+	margin-left: 20px;
+	padding-left: 4px;
+	width: 300px;
+	height: 28px;	
+}
+
+#inp-border{
+	border: 1px solid red;
+}
+
+.button {
+	margin-left: 212px;
+	padding-left: 24px;
+	padding-right: 24px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-size: 1em;
+	font-weight: bold;
+	color: #234464;
+	border: 2px solid #234464;
+}
+
+#left-column {
+	position: absolute;
+}
+
+#right-column {
+	height: 270px;
+	width: 390px;
+	background: #234464;
+	margin-left: 380px;
+	margin-top: 10px;
+	position: absolute;
+}
+
+#user {
+	margin-top: 4px;
+	padding-left: 14px;
+	font-weight: bold;
+	color: white;
+	font-size: 16px;
+}
+
+#remember-check{
+	margin-left: 20px;
+}
+
+#remember-label {
+	color: white;
+}
+
+
+
+
+#login-button {	
+	border: 2px solid orange;
+	background: #234464;
+	color: white;
+	float: right;
+	margin-right: 23px;
+	margin-top: -24px;
+}
+
+#login-button:hover{
+	background: orange;
+	text-shadow: 1px 1px 1px black;
+}
+
+#reg-button:hover{
+	background: #234464;
+	color: white;
+}
+
+#forgot-pwd {
+	color: white;
+	font-size: 10px;
+	text-decoration: underline;
+	float: right;
+	margin-right: 30px;
+}
+
+
+#headin {
+	color: #234464;
+	font-size: 24px;
+	font-weight: bolder;
+	padding-left: 10px;
+}
+
+#under-headin{
+	color: #848484;
+	font-size: 13px;
+	padding-left: 10px;
+}
